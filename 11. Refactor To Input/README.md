@@ -1,7 +1,5 @@
 <h1  align="center" > 🏕️ 𝐑𝖾𝖿α𝖼𝗍ⱺ𝗋 𝐓ⱺ 𝚰𐓣ρυ𝗍 🏚️</h1>
 
-</br>
-
 #### Inside the index.js file
 
 ```js

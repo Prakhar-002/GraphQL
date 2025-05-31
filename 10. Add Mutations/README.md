@@ -1,7 +1,5 @@
 <h1  align="center" > 🏕️ 𝐀ᑯᑯ 𝐌υ𝗍α𝗍𝗂ⱺ𐓣𝗌 🏚️</h1>
 
-</br>
-
 ### Inside the index.js file
 
 ```js

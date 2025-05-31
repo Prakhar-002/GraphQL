@@ -1,7 +1,5 @@
 <h1  align="center" > 🏕️ 𝐁𝗂𝗀 𝐑𝖾𝖿α𝖼𝗍ⱺ𝗋 🏚️</h1>
 
-</br>
-
 ### Create src folder
 
 ### Inside the src folder create graph-schema.js file & paste the following code inside

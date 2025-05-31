@@ -1,7 +1,5 @@
 <h1  align="center" > 🏕️ 𝐁α𝗌𝗂𝖼 𝐒𝖾𝗍υρ 𝐂ⱺᑯ𝖾 🏚️</h1>
 
-</br>
-
 1. Create index.js file and paste the following code:
 
 ```js
