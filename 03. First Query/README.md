@@ -2,12 +2,16 @@
 
 </br>
 
+<h1  align="center" >
+
 | Part           | Purpose                                   |
 | -------------- | ----------------------------------------- |
 | `typeDefs`     | Define **what data** can be queried       |
 | `resolvers`    | Define **how to get the data**            |
 | `ApolloServer` | Ties it all together                      |
 | Sandbox        | Lets you test your GraphQL queries easily |
+
+</h1>
 
 ```js
 // Import ApolloServer class from the Apollo Server package
