@@ -1,8 +1,8 @@
 <h1  align="center" > 🏕️ 𝐅𝗂𝗋𝗌𝗍 𝐐υ𝖾𝗋𝗒 🏚️</h1>
 
-</br>
-
 <div align="center">
+
+<h3>
 
 | Part           | Purpose                                   |
 | -------------- | ----------------------------------------- |
@@ -10,6 +10,8 @@
 | `resolvers`    | Define **how to get the data**            |
 | `ApolloServer` | Ties it all together                      |
 | Sandbox        | Lets you test your GraphQL queries easily |
+
+</h3>
 
 </div>
 
