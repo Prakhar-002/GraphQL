@@ -2,7 +2,7 @@
 
 </br>
 
-<p  align="center" >
+<div align="center">
 
 | Part           | Purpose                                   |
 | -------------- | ----------------------------------------- |
@@ -11,7 +11,9 @@
 | `ApolloServer` | Ties it all together                      |
 | Sandbox        | Lets you test your GraphQL queries easily |
 
-</p>
+</div>
+
+</br>
 
 ```js
 // Import ApolloServer class from the Apollo Server package
